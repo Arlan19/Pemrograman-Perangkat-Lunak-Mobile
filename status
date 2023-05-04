@@ -1,0 +1,25 @@
+* [33mf54348b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m menghapus file test
+* [33mea6231a[m coomit pertemuan 1 - pertemuan 7 PPLM
+*   [33m7b99ab5[m Merge pull request #3 from Arlan19/coba-branch-3
+[32m|[m[33m\[m  
+[32m|[m *   [33m9258d40[m Merge branch 'main' into coba-branch-3
+[32m|[m [34m|[m[32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+* [34m|[m   [33m8248177[m Merge pull request #2 from Arlan19/coba-branch-2
+[36m|[m[1;31m\[m [34m\[m  
+[36m|[m * [34m|[m [33mc1151f3[m menambahkan test 2.2
+[36m|[m * [34m|[m [33mb384a42[m menambahkan test 2
+[36m|[m[36m/[m [34m/[m  
+[36m|[m * [33m1c46474[m menambahkan test 3 dan hapus 2
+[36m|[m[36m/[m  
+* [33m9c5a7fa[m menambah test 4
+*   [33m675751e[m Merge pull request #1 from Arlan19/test-branch
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m8abed92[m menambahkan detail
+[1;32m|[m * [33m8916774[m membuat test brach
+[1;32m|[m[1;32m/[m  
+* [33ma6e3001[m menghilangkan resolusi 4
+* [33mf658d4f[m menambahkan resolusi
+* [33m6448657[m Mrembuat file txt
+* [33m488ebfd[m Initial commit
