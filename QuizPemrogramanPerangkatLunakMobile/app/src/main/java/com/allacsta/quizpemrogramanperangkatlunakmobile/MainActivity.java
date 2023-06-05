@@ -25,6 +25,11 @@ public class MainActivity extends AppCompatActivity {
 
         bottomNavigationView = findViewById(R.id.bottom_navigation);
 
+        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+        Fragment fragment = new CameraFragment();
+        transaction.replace(R.id.fragment_container, fragment);
+        transaction.commit();
+
         // Set default fragment when app starts
         loadFragment(new CameraFragment());
 
